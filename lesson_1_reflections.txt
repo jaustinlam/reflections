@@ -1,0 +1,26 @@
+In this lesson we learnt about spotting differences in files.
+Using diff allowed me to see, small differences in files with + for additions
+and - for deletions.
+
+Having access to old versions of your files would make you a better programmer by allowing you to see where issues were made. You could also ensure that you are keeping consistent styling and fix possibly ways to do things that actually were better
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros of manually commiting changes is that your version control is less cluttered and easier to navigate to. The cons is you could forget to commit changes.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Different nature of uses. Google Docs typically mean you are just working on one dependant file while coding often requires you to make changes to interlinked files.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+You use git log to to find versions you have commited and look for the right message. You use git diff to find the changes between that and the previous commit
+
+How might using version control make you more confident to make changes that could break something?
+
+You know that you can revert to previous functions and find where you made errors
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Different version control of apps
