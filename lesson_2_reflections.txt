@@ -17,3 +17,11 @@ When you are trying a new feature that you are not yet ready to merge in to the 
 How do the diagrams help you visualize the branch structure?
 
 They help you see a linear history of where changes were made.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combines all the changes and deletions of 2 different branches. In a diagram to show the result.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+it can automate especially when you have made a lot of changes. however complicated conflicts can take time to resolve when other people made them.
