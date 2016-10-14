@@ -13,3 +13,15 @@ fork: cloned copy of project on github server. attribute to someone elses work, 
 clone: complete copy of project on local machine. seperate work, just using as a shell.
 
 branch: a clone of project within the project. your project you are making changes to.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can see the changes you have made since then.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+you would email files or use dropbox. Cannot easily see changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+working on someone else project. Adding a new feature you are not sure you want to add in yet.
