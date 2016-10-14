@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Because you need to add a .git file to track previous versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is an between stage where you can customize and prepare files you choose to commit to git.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add and commit just the changes for each logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you are trying a new feature that you are not yet ready to merge in to the existing branch. Or it is another version of your app.
